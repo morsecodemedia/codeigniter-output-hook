@@ -34,4 +34,4 @@ In `application/config/hooks.php` add the following:
 
 ### Step 3
 
-Add *Display_Override.php* to `application/hooks/`
+Add **Display_Override.php** to `application/hooks/`
